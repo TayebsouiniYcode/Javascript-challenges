@@ -883,7 +883,7 @@ Nouveau solde : 700 DH
 
 ## Challenge 30 : Jeu de combat
 
-🦸 **Challenge HÉRO**
+ **Challenge HÉRO**
 
 Vous développez un mini-jeu de combat entre un joueur et un monstre.
 
