@@ -544,7 +544,7 @@ Mais :
 
 ---
 
-# 🦸 Niveau HÉRO
+# Niveau HÉRO
 
 > Les challenges HÉRO demandent plusieurs étapes de raisonnement et combinent boucles + conditions + calculs.
 
@@ -744,7 +744,7 @@ Plus cher : 120 DH
 Moins cher : 35 DH
 ```
 
-> ⚠️ Ne pas utiliser de tableau.
+>  Ne pas utiliser de tableau.
 
 ---
 
