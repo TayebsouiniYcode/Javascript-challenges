@@ -471,7 +471,7 @@ map()
 ```
 
 ```javascript
-reduce()
+reduce(
 ```
 
 Comparer ensuite avec une solution utilisant une boucle `for`.
